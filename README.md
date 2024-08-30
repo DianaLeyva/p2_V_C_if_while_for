@@ -24,11 +24,11 @@ Actividad 2 variables, cadenas, if, while y for
 - ![image](https://github.com/user-attachments/assets/10052308-0239-4f9b-82dd-416f37de672d)
   
  ## While
- -![image](https://github.com/user-attachments/assets/ec40cd96-5774-421f-84ef-da127aab4193)
- -Resultado
- -![image](https://github.com/user-attachments/assets/19039b32-532f-4dd4-bf40-10f587eb959f)
+ - ![image](https://github.com/user-attachments/assets/ec40cd96-5774-421f-84ef-da127aab4193)
+ - Resultado
+ - ![image](https://github.com/user-attachments/assets/19039b32-532f-4dd4-bf40-10f587eb959f)
 
  ## For
- -![image](https://github.com/user-attachments/assets/6f795894-d721-4ae8-afb0-4371798f14e6)
- -Resultado
- -![image](https://github.com/user-attachments/assets/97305f33-43a9-4b3c-9aaf-bffa82712363)
+ - ![image](https://github.com/user-attachments/assets/6f795894-d721-4ae8-afb0-4371798f14e6)
+ - Resultado
+ - ![image](https://github.com/user-attachments/assets/97305f33-43a9-4b3c-9aaf-bffa82712363)
